@@ -1,0 +1,30 @@
+1,"Laptop", 1000.0
+2,"Mouse", 50.0
+3,"Teclado", 80.0
+4,"Monitor", 200.0
+5,"Impresora", 300
+6,"Tablet", 400.0
+7,"Auriculares", 60.0
+8,"Webcam", 90.0
+9,"Micrófono", 120.0
+10,"Silla Gamer", 250.0
+11,"Router Wifi", 150.0
+12,"Disco Duro Externo", 120.0
+13,"Memoria USB", 25.0
+14,"Cámara Digital", 500.0
+15,"Smartphone", 800.0
+16,"Cargador Portátil", 45.0
+17,"Proyector", 600.0
+18,"Altavoces Bluetooth", 90.0
+19,"Smartwatch", 220.0
+20,"Lámpara LED", 35.0
+21,"Soporte para Laptop", 40.0
+22,"Panel Solar USB", 75.0
+23,"Scanner", 180.0
+24,"Control para Juegos", 70.0
+25,"Estación de Carga", 55.0
+26,"Kit de Herramientas Electrónicas", 65.0
+27,"Filtro de Luz Azul", 30.0
+28,"Mochila Antirrobo", 85.0
+29,"Sistema de Seguridad", 350.0
+30,"Kit de Limpieza para PC", 20.0
